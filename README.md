@@ -34,3 +34,24 @@ The app's UI is built using pure Streamlit.
 - `pandas` - data wrangling
 - `datetime` - handling date time
 
+
+
+## Installation 
+
+
+  
+  ```bash
+  conda create -n monenv python=3.10
+  ```
+
+  ```bash
+  conda activate monenv
+  ```
+
+
+  ```bash
+  pip install -r requirements.txt
+  ```
+
+
+
